@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Hadmean](https://github.com/hadmean/hadmean)
 - 👯 I’m looking to collaborate on EXTREMELY challenging projects
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning web accessibility
 - 💬 Ask me about my weird opinions on Testing
 - ⚡ Fun fact: Really love Elixir but the lack of types is the blocker for me
 

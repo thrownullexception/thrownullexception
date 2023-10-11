@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Used to be a Polygot but now an average Javascript guy.
 - Loves building stuffs for the internet.
-- I’m currently working on [Hadmean](https://github.com/hadmean/hadmean)
+- I’m currently working on [DashPress](https://github.com/dashpresshq/dashpress)
 
 ### 🛠 &nbsp;Tech Stack
 
